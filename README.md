@@ -1,6 +1,5 @@
 # Lekkyl-AI
 
+HNG
+
 BackEnd
-
-Data Analytics and AI
-
